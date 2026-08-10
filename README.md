@@ -23,3 +23,6 @@ After that try "pytest"
 
 For launching, make sure that you are in text_analyzer folder
 Then, in terminal - python cli.py
+=======
+# csv-projects
+Here are some simple projects with csv files
