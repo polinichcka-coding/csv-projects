@@ -1,0 +1,11 @@
+FINANCE REPORT
+    Total income:1500.00
+    Total expenses:192.50
+    Balance:1307.50
+    Average expense:64.17
+
+    Expenses by category:
+    food:12.50
+shopping:180.00
+
+Biggestexpense:{'date': datetime.date(2026, 8, 8), 'category': 'shopping', 'type': 'expense', 'amount': 100.0, 'description': 'clothes'}

@@ -1,0 +1,5 @@
+date,category,type,amount,description
+2026-01-02,food,expense,12.5,Lunch
+2026-01-03,salary,income,1500.0,January
+2026-01-05,shopping,expense,80.0,Clothes
+2026-08-08,shopping,expense,100.0,clothes
